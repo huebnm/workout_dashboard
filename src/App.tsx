@@ -1,4 +1,3 @@
-ts
 // @ts-nocheck
 import React, { useState, useMemo, useEffect } from "react";
 import { Dumbbell, Timer, RotateCcw, Copy, Check, X } from "lucide-react";
